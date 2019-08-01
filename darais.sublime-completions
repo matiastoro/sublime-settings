@@ -1,0 +1,26 @@
+{
+   "scope": "text.tex.latex",
+
+   "completions":
+   [
+      { "trigger": "p", "contents": "⸨$1⸩" },
+      { "trigger": "b", "contents": "⸤$1⸥" },
+      { "trigger": "uad", "contents": "⇡" },
+      { "trigger": "S", "contents": "Σ" },
+      { "trigger": "T", "contents": "τ" },
+      { "trigger": "V", "contents": "𝒱" },
+      { "trigger": "set", "contents": "❴$1❵" },
+      { "trigger": "v1", "contents": "v₁" },
+      { "trigger": "v2", "contents": "v₂" },
+      { "trigger": "e1", "contents": "e₁" },
+      { "trigger": "e2", "contents": "e₂" },
+      { "trigger": "T1", "contents": "τ₁" },
+      { "trigger": "T2", "contents": "τ₂" },
+      { "trigger": "g1", "contents": "γ₁" },
+      { "trigger": "g2", "contents": "γ₂" },
+      { "trigger": "dot", "contents": "⋅" },
+
+      
+      
+   ]
+}
