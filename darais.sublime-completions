@@ -5,7 +5,6 @@
    [
       { "trigger": "p", "contents": "⸨$1⸩" },
       { "trigger": "b", "contents": "⸤$1⸥" },
-      { "trigger": "uad", "contents": "⇡" },
       { "trigger": "S", "contents": "Σ" },
       { "trigger": "T", "contents": "τ" },
       { "trigger": "V", "contents": "𝒱" },
@@ -19,8 +18,9 @@
       { "trigger": "g1", "contents": "γ₁" },
       { "trigger": "g2", "contents": "γ₂" },
       { "trigger": "dot", "contents": "⋅" },
-
-      
-      
+      { "trigger": "leq", "contents": "≤" },
+      { "trigger": "neq", "contents": "≠" },
+      { "trigger": "emp", "contents": "∅" },
+      { "trigger": "ud", "contents": "⇡" },
    ]
 }
